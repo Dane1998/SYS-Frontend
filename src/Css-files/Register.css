@@ -1,0 +1,80 @@
+.registerLogo{
+    color: rgb(233, 163, 0);
+    font-family: 'Modak', cursive;
+    position: relative;
+    font-size: 50px;
+}
+
+
+
+.registerHeader{
+    margin: auto;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
+.registerContainer {
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 3px;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+    width: 450px;
+    height: 350px;
+  }
+
+
+.nameField{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.inputField{
+    width: 430px;
+    height: 30px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.makeButton{
+    border: none;
+    outline: none;
+    margin: auto;
+    color: white;
+    width:250px;
+    background-color: rgb(233, 163, 0);
+    position: absolute;
+    border-radius: 100px;
+    left: 50%;
+    top: 90%;
+    transform: translate(-50%, -50%);
+    height: 50px;
+}
+.makeButton:hover{
+    background-color: #aa8305;
+  }
+
+.DoB{
+    font-size: 10px;
+}
+
+.statusMessage{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+
